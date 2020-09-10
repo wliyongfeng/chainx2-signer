@@ -1,5 +1,5 @@
 {
-  "name": "chainx-signer",
+  "name": "chainx2-signer",
   "version": "1.1.0",
   "private": true,
   "main": "electron.js",
@@ -163,8 +163,8 @@
     },
     "publish": {
       "provider": "github",
-      "repo": "chainx-signer",
-      "owner": "chainx-org"
+      "repo": "chainx2-signer",
+      "owner": "wliyongfeng"
     },
     "directories": {
       "app": "./",
