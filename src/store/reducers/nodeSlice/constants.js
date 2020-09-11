@@ -30,7 +30,7 @@ export const chainxTestNetInitNodes = [
 
 export const chainx2TestNetInitNodes = [
   {
-    name: '47.114.131.193',
-    url: 'ws://47.114.131.193:9000'
+    name: 'staging-1',
+    url: 'wss://staging-1.chainx.org'
   }
 ]
